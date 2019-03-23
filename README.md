@@ -1,0 +1,2 @@
+# Affekt
+Emotion Recognition App
